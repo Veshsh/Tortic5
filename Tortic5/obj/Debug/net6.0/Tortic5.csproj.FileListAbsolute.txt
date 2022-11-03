@@ -1,0 +1,15 @@
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\bin\Debug\net6.0\Tortic5.exe
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\bin\Debug\net6.0\Tortic5.deps.json
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\bin\Debug\net6.0\Tortic5.runtimeconfig.json
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\bin\Debug\net6.0\Tortic5.dll
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\bin\Debug\net6.0\Tortic5.pdb
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.csproj.AssemblyReference.cache
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.AssemblyInfoInputs.cache
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.AssemblyInfo.cs
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.csproj.CoreCompileInputs.cache
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.dll
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\refint\Tortic5.dll
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.pdb
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\Tortic5.genruntimeconfig.cache
+C:\Users\vanaj\source\repos\Tortic5\Tortic5\obj\Debug\net6.0\ref\Tortic5.dll
